@@ -1,5 +1,0 @@
-{{#user}}
-Name: Suyash Patil
-Skills: HTML, CSS, JS, React
-Email: patilsuyash545@gmail.com
-{{/user}}
